@@ -19,7 +19,7 @@ Bioinformatics Folder: contains scripts used for read trimming, quality control,
  
  -afmat: numeric data frame containing all haplotype-derived allele freqeuncies 
  
- - eec: numeric data frame containing estimated effective coverage for each sample/site 
+ -eec: numeric data frame containing estimated effective coverage for each sample/site 
  
  -sites: dataframe containing chromosome and site information (corresponding to rows of afmat and eec_
 
