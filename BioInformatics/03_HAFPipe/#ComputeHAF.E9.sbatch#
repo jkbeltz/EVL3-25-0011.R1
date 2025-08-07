@@ -1,0 +1,29 @@
+#!/bin/bash
+#SBATCH --job-name=ComputeHAFs
+#SBATCH --time=50:00:00
+#SBATCH --mem=70GB
+#SBATCH --cpus-per-task=2
+#SBATCH --partition=hns
+#SBATCH --out=out.ComputeHAFs
+
+
+cd /home/users/mcbitter/dpetrov/MarkB/Orchard2021Data/PigTraitMapping/02_bams_Downsampled/
+
+module load R
+ml py-numpy/1.14.3_py27
+ml biology
+ml samtools
+ml system
+ml curl
+
+
+for Chrom in 2L 2R 3L 3R X; do
+	/home/users/mcbitter/OrchardProject/Code/HAFpipe-line/HAFpipe_wrapper.sh -t 3,4 \
+	    -c ${Chrom} \
+	    -s ../../founders/snptables/Orchard2021/inbredv2_withHets.orch2021.${Chrom}.snpTable \
+	    -i npute \
+	    -b TP2.E9.M.bam \
+	    -r ../../../Dmel_RefGenome/all_dmel.fasta \
+	    -g 6 \
+	    -o ../../03_HAFs/
+done                                                                                                                                                                                     

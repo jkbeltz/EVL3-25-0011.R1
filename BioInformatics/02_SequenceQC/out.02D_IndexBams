@@ -1,0 +1,258 @@
+[E::hts_idx_push] Unsorted positions on sequence #7: 17469230 followed by 15550649
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:1190:1016' with ref_name='X', ref_length=22422827, flags=99, pos=15550649 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-08-03_S59_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 756261 followed by 756123
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:2347:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=756123 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-08-04_S60_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 4721683 followed by 4721580
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:1931:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=4721580 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-08-05_S61_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 12184921 followed by 12184442
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:1407:1016' with ref_name='3L', ref_length=24543557, flags=163, pos=12184442 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-08-06_S62_L001.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:24876:11412' with ref_name='2L', ref_length=23011544, flags=83, pos=13167730 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-08-07_S63_L001.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:8477:1016' with ref_name='2R', ref_length=21146708, flags=83, pos=7542290 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-08-08_S64_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 9913159 followed by 9913121
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:2293:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=9913121 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-09-03_S67_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 20260254 followed by 20260233
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:6253:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=20260233 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-09-04_S68_L001.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:5475:1016' with ref_name='X', ref_length=22422827, flags=83, pos=10737895 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-09-05_S69_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 8262476 followed by 2733977
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:5837:1016' with ref_name='3L', ref_length=24543557, flags=83, pos=2733977 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-09-06_S70_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 11442518 followed by 11442234
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:1353:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=11442234 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-09-07_S71_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 18883738 followed by 18883604
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:1:1101:6126:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=18883604 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-09-08_S72_L001.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 13771814 followed by 13771698
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2745:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=13771698 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-10-03_S75_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #9: 232259 followed by 231838
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:6126:1016' with ref_name='gi|42519920|ref|NC_002978.6|', ref_length=1267782, flags=163, pos=231838 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-10-04_S76_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 2318776 followed by 2318748
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3378:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=2318748 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-10-05_S77_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 9703466 followed by 9703270
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:14064:1016' with ref_name='X', ref_length=22422827, flags=163, pos=9703270 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-10-06_S78_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 23387915 followed by 23387600
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4137:1016' with ref_name='3L', ref_length=24543557, flags=163, pos=23387600 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-10-07_S79_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 11748294 followed by 11748197
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1533:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=11748197 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-10-08_S80_L002.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:13069:1016' with ref_name='3R', ref_length=27905053, flags=83, pos=20868595 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-11-01_S81_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 14752366 followed by 14752284
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2672:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=14752284 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-11-02_S82_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 12725890 followed by 12725544
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3974:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=12725544 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-11-03_S83_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #9: 1166563 followed by 1166288
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1362:1031' with ref_name='gi|42519920|ref|NC_002978.6|', ref_length=1267782, flags=163, pos=1166288 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-11-06_S86_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 6484215 followed by 6484127
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:5041:1016' with ref_name='3L', ref_length=24543557, flags=163, pos=6484127 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-11-07_S87_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 12145087 followed by 12144778
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:8296:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=12144778 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-11-08_S88_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 27782888 followed by 27782887
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:32371:1094' with ref_name='3R', ref_length=27905053, flags=147, pos=27782887 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-12-02_S90_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 16003123 followed by 16002889
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2962:1016' with ref_name='3L', ref_length=24543557, flags=163, pos=16002889 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-12-03_S91_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 4039938 followed by 4039658
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4372:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=4039658 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-12-04_S92_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 20389642 followed by 20389362
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1787:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=20389362 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-12-05_S93_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 22860981 followed by 22860586
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1443:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=22860586 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-12-06_S94_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 9265204 followed by 9265007
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4354:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=9265007 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-12-07_S95_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 6792042 followed by 6791963
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4227:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=6791963 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-12-08_S96_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 8668575 followed by 8668490
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:11153:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=8668490 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-13-01_S97_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 3681917 followed by 3681778
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3775:1016' with ref_name='X', ref_length=22422827, flags=163, pos=3681778 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-13-02_S98_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 14232000 followed by 14231765
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1805:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=14231765 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-13-03_S99_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #8: 4604 followed by 4587
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3414:1016' with ref_name='YHet', ref_length=347038, flags=147, pos=4587 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-13-04_S100_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 12529220 followed by 12529066
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3522:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=12529066 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-13-05_S101_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 15844437 followed by 15844254
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:6144:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=15844254 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-13-07_S103_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #8: 4592 followed by 4590
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2908:1016' with ref_name='YHet', ref_length=347038, flags=147, pos=4590 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-13-08_S104_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 3046709 followed by 3046513
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:8892:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=3046513 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-14-01_S105_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 13439994 followed by 13439624
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2980:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=13439624 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-14-02_S106_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 21786159 followed by 21786044
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:6686:1016' with ref_name='X', ref_length=22422827, flags=163, pos=21786044 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-14-03_S107_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 507537 followed by 507437
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1461:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=507437 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-14-04_S108_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 752960 followed by 752832
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:2140:7699:4554' with ref_name='X', ref_length=22422827, flags=161, pos=752832 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-14-05_S109_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 21834852 followed by 21834849
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3992:1016' with ref_name='X', ref_length=22422827, flags=163, pos=21834849 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-14-06_S110_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 2858820 followed by 2858732
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1154:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=2858732 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-14-07_S111_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 23732690 followed by 23732531
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2763:1016' with ref_name='3L', ref_length=24543557, flags=163, pos=23732531 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-14-08_S112_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 11059504 followed by 11059397
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:7283:1016' with ref_name='X', ref_length=22422827, flags=163, pos=11059397 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-15-01_S113_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 15901368 followed by 15901136
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:6036:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=15901136 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-15-02_S114_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 25285591 followed by 25285456
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:12599:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=25285456 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-15-03_S115_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 16438932 followed by 16438849
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2365:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=16438849 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-15-04_S116_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 7502906 followed by 7502779
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3667:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=7502779 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-15-05_S117_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 12260758 followed by 12260622
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:9381:1016' with ref_name='3L', ref_length=24543557, flags=163, pos=12260622 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-15-06_S118_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 21957547 followed by 21957507
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:5547:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=21957507 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-15-07_S119_L002.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1967:1016' with ref_name='2R', ref_length=21146708, flags=113, pos=13971573 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-15-08_S120_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 12276834 followed by 12276523
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4679:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=12276523 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-16-01_S121_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 15783788 followed by 15783301
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1949:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=15783301 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-16-02_S122_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 1005988 followed by 1005867
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2437:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=1005867 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-16-03_S123_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 19261493 followed by 19261364
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:23185:1251' with ref_name='X', ref_length=22422827, flags=163, pos=19261364 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-16-04_S124_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 21728041 followed by 21727559
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2257:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=21727559 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-16-05_S125_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 14381881 followed by 14381539
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3197:1016' with ref_name='3L', ref_length=24543557, flags=163, pos=14381539 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-16-06_S126_L002.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:14425:1016' with ref_name='3R', ref_length=27905053, flags=99, pos=17239507 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-16-07_S127_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 21146003 followed by 21145931
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3540:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=21145931 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-16-08_S128_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 23180455 followed by 23180385
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1877:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=23180385 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-17-01_S129_L002.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:9471:1016' with ref_name='3L', ref_length=24543557, flags=99, pos=7768639 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-17-02_S130_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 10201908 followed by 10201820
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2184:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=10201820 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-17-03_S131_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 15462492 followed by 15462357
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:25319:1031' with ref_name='3R', ref_length=27905053, flags=163, pos=15462357 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-17-04_S132_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 24149669 followed by 23779751
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:10212:1016' with ref_name='3L', ref_length=24543557, flags=83, pos=23779751 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-17-07_S135_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 15170156 followed by 15170035
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:7789:1016' with ref_name='X', ref_length=22422827, flags=163, pos=15170035 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-17-08_S136_L002.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:2135:7229:13667' with ref_name='X', ref_length=22422827, flags=81, pos=10800485 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-18-01_S137_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 5006042 followed by 5005591
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:5493:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=5005591 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-18-02_S138_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 353628 followed by 353389
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3106:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=353389 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-18-04_S140_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 27581789 followed by 27581558
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:6216:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=27581558 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-18-08_S144_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 12837319 followed by 12836896
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4463:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=12836896 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-19-01_S145_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 8777336 followed by 1535273
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4209:1016' with ref_name='X', ref_length=22422827, flags=83, pos=1535273 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-19-02_S146_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 4814465 followed by 4814390
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1624:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=4814390 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-19-03_S147_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 14416970 followed by 14416863
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2691:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=14416863 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-19-04_S148_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 20234374 followed by 20234289
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4661:1016' with ref_name='3R', ref_length=27905053, flags=163, pos=20234289 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-19-05_S149_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 752180 followed by 752031
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:4155:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=752031 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-19-06_S150_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 7008150 followed by 7007823
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:3305:1016' with ref_name='2L', ref_length=23011544, flags=163, pos=7007823 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-19-07_S151_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #3: 4318968 followed by 4318909
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1570:1016' with ref_name='3L', ref_length=24543557, flags=163, pos=4318909 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-19-08_S152_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 4867550 followed by 4867548
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:13367:1031' with ref_name='2L', ref_length=23011544, flags=163, pos=4867548 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-20-01_S153_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #7: 9643617 followed by 9643616
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2220:1016' with ref_name='X', ref_length=22422827, flags=147, pos=9643616 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-20-03_S155_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #4: 10692947 followed by 5170286
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1859:1016' with ref_name='3R', ref_length=27905053, flags=83, pos=5170286 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-20-04_S156_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #2: 14458027 followed by 14457951
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:2022:1016' with ref_name='2R', ref_length=21146708, flags=163, pos=14457951 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-20-06_S158_L002.filtered.bam"
+[E::hts_idx_push] Unsorted positions on sequence #1: 16121232 followed by 3423355
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:1660:1016' with ref_name='2L', ref_length=23011544, flags=99, pos=3423355 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-20-07_S159_L002.filtered.bam"
+[E::hts_idx_push] Chromosome blocks not continuous
+[E::sam_index] Read 'A00870:405:HCJL2DRX2:2:1101:19895:1031' with ref_name='X', ref_length=22422827, flags=99, pos=9518721 cannot be indexed
+samtools index: failed to create index for "./18032FL-120-20-08_S160_L002.filtered.bam"
