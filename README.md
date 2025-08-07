@@ -14,10 +14,15 @@ RD1Sequencing_SampleKey.csv and RD2Sequencing_SampleKey.csv (Found in WGS Analys
 Bioinformatics Folder: contains scripts used for read trimming, quality control, alignment, and haplotype-derived allele frequency estimation.
 
  RData (Found on Dryad @ LINK): consists of 4 data frames: 
+ 
  -samps: sample information whereby row order corresponds to column order of the allele frequency matrix and effective coverage matrix. 
+ 
  -afmat: numeric data frame containing all haplotype-derived allele freqeuncies 
+ 
  - eec: numeric data frame containing estimated effective coverage for each sample/site 
+ 
  -sites: dataframe containing chromosome and site information (corresponding to rows of afmat and eec_
+
  
  GLM AND PCA analysis conducted on PCA data found in the WGS Analysis Folder
  
