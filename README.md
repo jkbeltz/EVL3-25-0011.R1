@@ -9,7 +9,9 @@ Phenotypic Analysis - Raw data files found in "Pheno Data" folder, and analysis 
 
 WGS analysis - All samples sequenced on Illumina Novaseq 6000 using 150 bp, paired-end reads -Samples with coverage < 5x were re-sequenced on a second round/date
 
-RD1Sequencing_SampleKey.csv and RD2Sequencing_SampleKey.csv (Found in WGS Analysis folder) contain information regarding .fastq file names, Fastq files found at (LINK)
+RD1Sequencing_SampleKey.csv and RD2Sequencing_SampleKey.csv (Found in WGS Analysis folder) contain information regarding .fastq file names. 
+
+Raw sequencing reads associated with the allele frequency data analyzed in this experiment are publicly available as an NCBI SRA under the BioProject ID: PRJNA1306087.
 
 Bioinformatics Folder: contains scripts used for read trimming, quality control, alignment, and haplotype-derived allele frequency estimation.
 
